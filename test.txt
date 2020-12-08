@@ -1,0 +1,3 @@
+fillred()
+drawrectangle(30,50)
+drawcircle(30,30)
